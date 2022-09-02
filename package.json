@@ -1,0 +1,13 @@
+{
+  "name": "epubpub-downloader",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "axios": "0.27.2",
+    "jsdom": "20.0.0",
+    "jszip": "3.10.1"
+  },
+  "author": "",
+  "license": "ISC"
+}
